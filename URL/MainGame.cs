@@ -152,8 +152,6 @@ namespace URL
 
             SetupEnemyHealth();
 
-            player.Play();
-
         }
 
 
